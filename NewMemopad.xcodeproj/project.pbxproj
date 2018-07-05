@@ -12,6 +12,7 @@
 		6825B2FC20EE52A90055E5A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6825B2FA20EE52A90055E5A1 /* Main.storyboard */; };
 		6825B2FE20EE52B10055E5A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6825B2FD20EE52B10055E5A1 /* Assets.xcassets */; };
 		6825B30120EE52B10055E5A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6825B2FF20EE52B10055E5A1 /* LaunchScreen.storyboard */; };
+		6825B30920EE53FE0055E5A1 /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6825B30820EE53FE0055E5A1 /* MemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6825B2FD20EE52B10055E5A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6825B30020EE52B10055E5A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6825B30220EE52B10055E5A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6825B30820EE53FE0055E5A1 /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				6825B2F620EE52A90055E5A1 /* AppDelegate.swift */,
 				6825B2F820EE52A90055E5A1 /* ViewController.swift */,
+				6825B30820EE53FE0055E5A1 /* MemoViewController.swift */,
 				6825B2FA20EE52A90055E5A1 /* Main.storyboard */,
 				6825B2FD20EE52B10055E5A1 /* Assets.xcassets */,
 				6825B2FF20EE52B10055E5A1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				6825B2F920EE52A90055E5A1 /* ViewController.swift in Sources */,
 				6825B2F720EE52A90055E5A1 /* AppDelegate.swift in Sources */,
+				6825B30920EE53FE0055E5A1 /* MemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
